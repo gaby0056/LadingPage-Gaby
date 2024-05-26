@@ -1,0 +1,61 @@
+body{ 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0; /*Espaço ao redor de um elemento*/
+    padding: 0; /*Preenchimento de um elemento*/
+    background-image: url(img/3543558-azul-roxo-gradiente-desfocado-fundo-abstrato-vetor.jpg);
+    background-repeat: no-repeat;
+    color: rgb(12, 12, 12);
+    font-size: 20px;
+     
+}
+
+header {
+    background-color: #78cbe0;
+    padding: 20px; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+}
+
+nav ul {
+list-style: none; /*Definir todas as propiedades de estilo para umna lista*/
+margin: 0;
+padding: 0;
+}
+
+nav li {
+    display: inline-block; /*exibição de elemento*/
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none; /* Adicionar decorações*/
+    color: #cb66d4;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+main{
+    padding: 20px;
+}
+
+section{
+    margin-bottom: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    font-size: 20px;
+
+}
+
+h2{
+    margin-top: 0;
+    margin-bottom: 10px;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(255, 243, 222);
+}
+
+footer {
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 20px;
+
+}
